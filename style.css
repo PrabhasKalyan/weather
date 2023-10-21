@@ -1,0 +1,33 @@
+.show{
+    margin-top: 5%;
+    margin-left: 35%;
+    margin-right: 34%;
+    padding-top: 3%;
+    padding-bottom: 20%;
+    background-color: aqua;
+    border-radius: 20px;
+}
+body{
+    background-repeat: repeat;
+    background-image: url('https://img.freepik.com/premium-vector/mountain-hill-landscape-with-cloud-blue-sky_24908-10364.jpg?w=1060');
+}
+p{
+    text-align: center;
+}
+.searchin{
+    margin-left: 30%;
+    border-radius: 20px;
+    height: 50px;
+    width: 200px;
+}
+.button{
+    height: 40px;
+    width: 40px;
+}
+.info{
+    margin-left: 40%;
+    border-radius: 20px;
+    height: 50px;
+    width: 200px;
+    text-align: center;
+}
